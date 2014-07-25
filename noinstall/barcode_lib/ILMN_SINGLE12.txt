@@ -1,0 +1,13 @@
+#this is illumina single index 12 barcode libs in order
+ATCACG
+CGATGT
+TTAGGC
+TGACCA
+ACAGTG
+GCCAAT
+CAGATC
+ACTTGA
+GATCAG
+TAGCTT
+GGCTAC
+CTTGTA

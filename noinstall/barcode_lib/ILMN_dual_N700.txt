@@ -1,0 +1,14 @@
+#this is illumina dual index N701-N712 barcodes list
+#usually, it stays at R2*fastq.gz
+TAAGGCGA
+CGTACTAG
+AGGCAGAA
+TCCTGAGC
+GGACTCCT
+TAGGCATG
+CTCTCTAC
+CAGAGAGG
+GCTACGCT
+CGAGGCTG
+AAGAGGCA
+GTAGAGGA

@@ -1,0 +1,10 @@
+#this is Illumina dual index N501-N508 barcodes.
+#usually, it stays as *R3*.fastq.gz
+TAGATCGC
+CTCTCTAT
+TATCCTCT
+AGAGTAGA
+GTAAGGAG
+ACTGCATA
+AAGGAGTA
+CTAAGCCT
